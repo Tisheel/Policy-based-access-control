@@ -122,4 +122,3 @@ POST /check
 
 ---
 
-👉 Do you want me to also include **example `curl` commands** in the README so someone can test all the routes right away?
